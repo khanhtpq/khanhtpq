@@ -1,0 +1,12 @@
+{
+  "xirsys": {
+    "gateway": "us.xirsys.com",
+    "info": {
+      "ident": "khanhtran>",
+      "secret": "26a0a69e-6a9b-11e7-91d2-f41e270145f8",
+      "channel": "MyFirstApp",
+      "secure": "true"
+    },
+    "allowedServices": ["/_token", "/_host", "/_data", "/_ns", "/_turn"]
+  }
+}
